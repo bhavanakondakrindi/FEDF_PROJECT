@@ -1,16 +1,84 @@
-# React + Vite
+# ✈️ Airline Disruption Management UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Overview
 
-Currently, two official plugins are available:
+The Airline Disruption Management UI is a frontend web application developed as part of our Front-End Development (FEDF) project. It provides an intuitive and responsive interface for managing airline disruptions such as flight delays, cancellations, and passenger information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project focuses on delivering a clean, user-friendly experience using modern web development technologies.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔐 User Authentication (Login & Signup)
+- 🛫 Flight Management Interface
+- 📊 Interactive Dashboard
+- 📱 Responsive Design
+- ⚡ Fast Performance with Vite
+- 🎨 Modern User Interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+## 📂 Project Structure
+
+```
+FEDF_PROJECT
+│
+├── src
+├── index.html
+├── package.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/bhavanakondakrindi/FEDF_PROJECT.git
+```
+
+Navigate to the project
+
+```bash
+cd FEDF_PROJECT
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the application
+
+```bash
+npm run dev
+```
+
+---
+
+## 👩‍💻 Team Members
+
+- **Bhavana K**
+- **Dhruthi**
+
+---
+
+## 📌 Project Status
+
+✅ Completed as a Front-End Development academic project.
